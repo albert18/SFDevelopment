@@ -1,7 +1,4 @@
-namespace force-app.main.default.classes
+public class AccountTriggerHandler
 {
-    public class AccountTriggerHandler
-    {
-        
-    }
+
 }
