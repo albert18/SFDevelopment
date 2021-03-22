@@ -10,6 +10,7 @@ public class Pen {
     
     Public void penCountNumber() {
         System.debug(penCount);
+        //TEST
     }
     
     Public void Write1() {
