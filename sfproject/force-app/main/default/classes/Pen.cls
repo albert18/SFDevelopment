@@ -13,10 +13,10 @@ public class Pen {
     }
     
     Public void Write1() {
-     System.debug('This is Write1 Method');   
+     System.debug('This is Write1 Method 1');   
     }
     
     Public void Write2() {
-     System.debug('This is Write2 Method');   
+     System.debug('This is Write2 Method 2');   
     }
 }
